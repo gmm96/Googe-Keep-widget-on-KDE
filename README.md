@@ -14,7 +14,7 @@
 
 
 
-## Installation
+### Installation
 
 Firstly, we need to install **qt5-webview**, which it's the only **dependency** the plasmoid has.
 
@@ -24,7 +24,7 @@ We can install [**Webslice** KDE 5 Applet](https://store.kde.org/p/998902/) by g
 
 
 
-## Usage
+### Usage
 
 When all has been installed, it's time to configure it.
 
@@ -39,6 +39,10 @@ tab's last field for **personalized javascript execution**.
 
 
 
-## Screenshots
+### Screenshots
 
-![Template Creator - Dolphin Service Menu](screenshots/screenshot1.png "Template Creator - Dolphin Service Menu")
+![Google Keep plasmoid with Webslice](screenshots/keep.png "Google Keep plasmoid with Webslice")
+
+![Webslice url configuration](screenshots/config1.png "Webslice url configuration")
+
+![Webslice javascript configuration](screenshots/config2.png "Webslice javascript configuration")
